@@ -7,7 +7,7 @@
     "generate": "tsc && node ./dist/generator/src/index.js"
   },
   "dependencies": {
-    "zod": "3.22.2"
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@types/node": "20.5.7",
